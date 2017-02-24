@@ -1,0 +1,14 @@
+---
+title: Welcome
+layout: default
+---
+
+
+<!-- This code generates a list of posts -->
+{% for post in paginator.posts %}
+   <li><a href="{{post.url}}">{{post.title}}</a></li> 
+{% endfor %}
+
+{% include pagination.html %}
+
+

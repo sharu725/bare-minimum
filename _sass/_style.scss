@@ -1,0 +1,111 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Courier New", Courier, monospace; 
+    color: $text-color;
+    font-size: 28px;
+    letter-spacing: -0.6px;
+    line-height: 1.8;
+    text-rendering: optimizeLegibility;
+    @include media-query($on-palm) {
+        font-size: 18px;
+    }
+}
+
+a {
+     color: $text-color;
+     text-decoration: none; 
+     border-bottom: 2px solid #ddd;
+    
+    &:hover {
+        
+       border-bottom: 2px solid cornflowerblue
+    }
+}
+
+
+p {
+    
+    background-color: transparent;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+    
+    font-weight: 100;
+    letter-spacing: -2px;
+    background-color: transparent;
+    
+}
+
+
+img {
+    
+    max-width: 100%
+}
+
+blockquote {
+    
+    border-left: 2px solid $brand-color;
+    padding-left: 10px;
+}
+
+footer {
+    
+    padding: 20px;
+    margin: 20px 0 0 0;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    font-size: 16px;
+    span{
+        color:palevioletred
+    }
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.drop-cap > p:first-of-type:first-letter {
+      color: $brand-color;
+      float: left;
+      font-family: Georgia;
+      font-size: 100px;
+      line-height: 60px;
+      padding-top: 20px;
+      padding-right: 15px;
+      padding-left: 3px;
+    }
+
+
+.title  {
+
+    line-height: 1;
+    font-weight: 300;
+    font-size: 80px;
+    text-decoration: none;
+
+    a {
+        color: $brand-color;
+
+
+    }
+        @include media-query($on-palm) {
+            font-size: 40px;
+        }
+
+}
+
+.video {
+    width: 100%;
+    height: 460px;
+    @include media-query($on-palm) {
+        height: 260px;
+    }
+}
+
+.mt20 {
+   margin-top: 20px;  
+}

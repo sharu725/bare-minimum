@@ -1,0 +1,36 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/css/main.css">
+  <title>{{ page.title }} - {{site.title}}</title>
+</head>
+<body>
+   <header>
+   <div class="container">
+       <h1 class="title"><a href="{{site.baseurl}}/">Bare Minimum</a></h1>
+    </div>
+
+   </header>
+    <div class="container">
+         
+         {% if page.url == '/' or page.url  contains '/page' %}
+           
+                <div class="drop-cap">{{ content }}</div>
+         {% else %}
+                     <h1>{{page.title}}</h1>
+                     <div class="drop-cap">{{ content }}</div>
+        {% endif %}
+        
+   
+
+ 
+          
+          {% include footer.html %}
+    </div>
+</body>
+</html>
