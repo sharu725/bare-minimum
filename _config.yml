@@ -4,6 +4,11 @@ title: Bare Minimum
 baseurl: /bare-minimum
 permalink: /:title
 
+
+# Tracker
+analytics: UA-83979019-1
+
+
 paginate: 5
 paginate_path: /page:num/
 
@@ -23,6 +28,7 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
+
 
 
 exclude:

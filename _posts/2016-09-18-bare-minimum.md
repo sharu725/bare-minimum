@@ -7,7 +7,7 @@ A theme is used to present the data in a design. What actually matters is the co
 
 Bare minimum is built on the same principle. Less design and priority is given to text. Look how google cleared out its clutter with time.
 
-Bare minimum has very minimal code. Nothing is loaded from external links. This helps the site load faster.
+Bare minimum has very minimal code. Nothing is loaded from external links(except for analytics). This helps the site load faster.
 
 There is only one layout available which is ``default``. This makes it easy to handle the site. 
 
