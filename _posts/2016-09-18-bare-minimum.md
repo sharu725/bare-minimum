@@ -18,10 +18,10 @@ Eventually, I will be adding support for categories and tags. I may add an insta
 While using this theme, delete all the crap above.
 
 In 1998
-![google in 1998](/images/google-1998.png)
+![google in 1998]({{site.baseurl}}/images/google-1998.png)
 
 and in 2016.
-![google in 1998](/images/google-2016.png)
+![google in 1998]({{site.baseurl}}/images/google-2016.png)
 
 
 ## Features
