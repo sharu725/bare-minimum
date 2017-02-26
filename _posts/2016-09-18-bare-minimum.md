@@ -3,6 +3,7 @@ layout: default
 title:  "Why bare minimum?"
 ---
 
+
 A theme is used to present the data in a design. What actually matters is the content but a content gets more eyeballs if it is presented beautifully.
 
 Bare minimum is built on the same principle. Less design and priority is given to text. Look how google cleared out its clutter with time.
