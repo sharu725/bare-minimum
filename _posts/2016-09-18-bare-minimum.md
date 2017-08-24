@@ -28,7 +28,5 @@ and in 2016.
 ## Features
 
 * Simple design with minimum CSS.
-
-* Web safe font is used so that no external request is made for fonts.
  
  

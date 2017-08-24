@@ -6,10 +6,10 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: "Courier New", Courier, monospace; 
+    font-family: $base-font-family;
     color: $text-color;
-    font-size: 22px;
-    letter-spacing: -0.6px;
+    background-color: white;
+    font-size: 20px;
     line-height: 1.8;
     text-rendering: optimizeLegibility;
 
@@ -68,9 +68,8 @@ footer {
     }
 }
 .container {
-    max-width: 800px;
+    max-width: 760px;
     margin: 0 auto;
-    padding: 0 10px;
 }
 
 .drop-cap > p:first-of-type:first-letter {

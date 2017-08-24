@@ -3,7 +3,7 @@ layout: default
 title: Documentation
 ---
 
-Visit [Bare Minimum Repo](https://github.com/bare-minimum) for documentation and [Webjeda Blog](https://blog.webjeda.com) for Jekyll tutorials.
+Visit [Bare Minimum Repo](https://github.com/sharu725/bare-minimum) for documentation and [Webjeda Blog](https://blog.webjeda.com) for Jekyll tutorials.
 
 Visit [Jekyll Themes](https://jekyll-themes.com) for more themes.
 
