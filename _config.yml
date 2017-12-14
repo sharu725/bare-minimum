@@ -35,4 +35,4 @@ exclude:
 - README.md
 
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
