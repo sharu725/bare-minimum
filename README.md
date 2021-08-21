@@ -1,5 +1,3 @@
-Demo: [http://webjeda.com/bare-minimum](http://webjeda.com/bare-minimum)
-
 ## Installation
 * Fork the repository
 * Go to settings and set Github Pages source as master.
