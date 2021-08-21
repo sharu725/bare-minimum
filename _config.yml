@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Bare Minimum
-baseurl: /bare-minimum
+#baseurl: /bare-minimum
 permalink: /:title
 
 
