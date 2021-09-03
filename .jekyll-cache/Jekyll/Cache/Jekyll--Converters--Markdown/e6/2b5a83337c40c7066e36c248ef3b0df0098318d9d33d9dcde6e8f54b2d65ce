@@ -1,0 +1,27 @@
+I"p<p>A theme is used to present the data in a design. What actually matters is the content but a content gets more eyeballs if it is presented beautifully.</p>
+
+<p>Bare minimum is built on the same principle. Less design and priority is given to text. Look how google cleared out its clutter with time.</p>
+
+<p>Bare minimum has very minimal code. Nothing is loaded from external links(except for analytics). This helps the site load faster.</p>
+
+<p>There is only one layout available which is <code class="language-plaintext highlighter-rouge">default</code>. This makes it easy to handle the site.</p>
+
+<p>You’ll know how small the code size is when you <strong>view source</strong>. Faster websites rank well on search engines.</p>
+
+<p>Eventually, I will be adding support for categories and tags. I may add an instant search.</p>
+
+<p>While using this theme, delete all the crap above.</p>
+
+<p>In 1998
+<img src="/images/google-1998.png" alt="google in 1998" /></p>
+
+<p>and in 2016.
+<img src="/images/google-2016.png" alt="google in 1998" /></p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Simple design with minimum CSS.</li>
+</ul>
+
+:ET
